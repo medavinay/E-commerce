@@ -1,0 +1,631 @@
+.electronic{
+    float: left;
+    width: 100%;
+}
+.electronic1{
+    float: left;
+    width: 100%;
+}
+
+#list li{
+    display: inline;
+    margin: 1em 1em 1em 1em;
+}
+#list{
+    margin: 1em 1em 1em 1em;
+    padding:1em 1em 1em 1em;
+}
+.electronic2{
+    float: left;
+    width: 100%;
+}
+#elecronic1 {
+    margin: -1em 0em 0em 2em;
+    float: left;
+    width: 33%;
+    font-size: 20px;
+}
+
+.made{
+    
+        float: left;
+        width: 40%;
+    }
+
+    #made1 {
+        margin: 15em 0em 0em -18em;
+        font-size: 26px;
+    }
+
+
+    #made2 {
+        margin: 2em 0em 0em -35em;
+        padding: 1em 1em 0em 0em;
+    }
+    #made3 {
+        margin: -1em 0em 0em -26em;
+        font-size: 17px;
+    }
+
+    .pay{
+    
+        float: left;
+        width: 40%;
+    }
+
+    #pay1 {
+        margin: 1em 0em 0em 1em;
+        font-size: 25px;
+    }
+
+    #pay2 {
+        margin: 1em 0em 0em 1em;
+        padding: 1em 1em 0em 0em;
+    }
+    #pay3 {
+        margin: -1em 0em 0em 2em;
+        font-size: 17px;
+    }
+
+
+    .brands{
+    
+        float: left;
+        width: 40%;
+    }
+
+    .brandss {
+        margin: 6em 0em 0em -21em;
+        font-size: 25px;
+    }
+
+    #brands1 {
+        margin: 2em 0em 0em -39em;
+        padding: 1em 1em 0em 0em;
+    }
+  
+    #brands2 {
+        margin: -1em 0em 0em -27em;
+        font-size: 18px;
+    }
+
+    #brands3 {
+        margin: 2em 0em 0em -39em;
+        padding: 1em 1em 0em 0em;
+    }
+
+    #brands4 {
+        margin: -1em 0em 0em -27em;
+        font-size: 18px;
+    }
+
+    #brands5 {
+        margin: 2em 0em 0em -39em;
+        padding: 1em 1em 0em 0em;
+    }
+
+    #brands6 {
+        margin: -1em 0em 0em -27em;
+        font-size: 18px;
+    }
+    #brands7 {
+        margin: 2em 0em 0em -39em;
+        padding: 1em 1em 0em 0em;
+    }
+
+    #brands8 {
+        margin: -1em 0em 0em -27em;
+        font-size: 18px;
+    }
+
+    #brands9 {
+        margin: 2em 0em 0em -39em;
+        padding: 1em 1em 0em 0em;
+    }
+
+    #brands10 {
+        margin: -1em 0em 0em -27em;
+        font-size: 18px;
+    }
+    #brands11 {
+        margin: 2em 0em 0em -39em;
+        padding: 1em 1em 0em 0em;
+    }
+    #brands12 {
+        margin: -1em 0em 0em -27em;
+        font-size: 18px;
+    }
+
+    #brands13 {
+        margin: 2em 0em 0em -39em;
+        padding: 1em 1em 0em 0em;
+    }
+    #brands14 {
+        margin: -1em 0em 0em -27em;
+        font-size: 18px;
+    }
+   
+    .avg{
+        float: left;
+        width: 40%;
+    }
+    #avg1 {
+        margin: 2em 0em 0em 0em;
+        font-size: 24px;
+    }
+    #avg2 {
+        margin: 1em 0em 0em 0em;
+        font-size: 24px;
+    }
+    
+    #avg3 {
+        margin: 1em 0em 0em 0em;
+        font-size: 24px;
+    }
+
+    .item{
+
+        float: left;
+        width: 40%;
+    }
+
+    #item1 {
+        margin: 9em 0em 0em -22em;
+        font-size: 24px;
+    }
+    #item2 {
+        margin: 1em 0em 0em -25em;
+        font-size: 21px;
+    }
+    #item3 {
+        margin: 1em 0em 0em -25em;
+        font-size: 21px;
+    }
+    #item4 {
+        margin: 1em 0em 0em -25em;
+        font-size: 21px;
+    }
+.deals{
+    float: left;
+    width: 40%;
+}
+
+#deals1 {
+    margin: 1em 0em 0em 0em;
+    font-size: 24px;
+}
+
+#deals2 {
+    margin: 1em 0em 0em 1em;
+    font-size: 17px;
+}
+.discount{
+    float: left;
+    width: 40%;
+}
+#discount1 {
+    margin: 5em 0em 0em -21em;
+    font-size: 24px;
+}
+#discount2{
+    margin: 1em 0em 0em -27em;
+    font-size: 19px;
+}
+
+#discount3{
+    margin: 1em 0em 0em -27em;
+    font-size: 19px;
+}
+
+#discount4{
+    margin: 1em 0em 0em -27em;
+    font-size: 19px;
+}
+#discount5{
+    margin: 1em 0em 0em -27em;
+    font-size: 19px;
+}
+#discount6{
+    margin: 1em 0em 0em -27em;
+    font-size: 19px;
+}
+
+.seller{
+    float: left;
+    width: 40%;
+
+}
+
+.seller1 {
+    margin: 2em 1em 1em 1em;
+    font-size: 25px;
+}
+#seller2 {
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+
+#seller3 {
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+
+
+#seller4{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+
+
+#seller5 {
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+
+
+#seller6{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+
+#seller7{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+
+#seller8{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+
+#seller9{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+#seller10{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+#seller11{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+
+#seller12{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+#seller13{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+#seller14{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+#seller15{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+#seller16{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+#seller17{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+#seller18{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+#seller19{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+#seller20{
+    margin: 0em 0em 0em 1em;
+    padding: 9px;
+}
+#seller21{
+    margin: -1em 0em 0em 3em;
+    font-size: 18px;
+}
+.avail{
+    float: left;
+    width: 40%;
+
+}
+#avail1 {
+    margin: 20em 0em 0em -24em;
+    padding: 9px;
+    font-size: 21px;
+}
+#avail2 {
+    margin: 1em 0em 0em -39em;
+    padding: 9px;
+}
+#avail3 {
+    margin: -1em 0em 0em -25em;
+    font-size: 19px;
+}
+
+.ece {
+    float: right;
+    width: 60%;
+}
+#list2 {
+    margin: -68em 1em 1em -8em;
+    font-size: 33px;
+    font-weight: 500;
+}
+#list2 li{
+    display: inline;
+    margin: 1em 1em 1em 1em;
+}
+#oneplus {
+    margin: 0em 0em 0em -8em;
+    width: 100%;
+}
+.EMI{
+    float: right;
+    width: 60%;
+
+}
+#reason {
+    margin: -103em 8em 0em 0em;
+    width: 100%;
+    float: right;
+}
+
+#reason1 {
+    margin: -96em 43em 0em 0em;
+    width: 30%;
+    float: right;
+}
+#reason2 {
+    margin: -96em 27em 0em 0em;
+    width: 30%;
+    float: right;
+}
+#reason3 {
+    margin: -96em 10em 0em 0em;
+    width: 30%;
+    float: right;
+}
+
+
+.carnival{
+    width: 60%;
+    float: right;
+}
+
+
+#carnival1 {
+    margin: -77em 0em 72em -11em;
+    width: 110%;
+}
+
+#carnival2 {
+    margin: -67em 0em 64em -12em;
+    width: 110%;
+}
+
+#carnival3 {
+    margin: -63em 0em 64em -11em;
+    width: 110%;
+}
+
+.phonic{
+    float: right;
+    width: 60%;
+}
+#phonic1 {
+    margin: -57em 3em 86em -15em;
+    width: 34%;
+}
+
+#phonic2 {
+    margin: -57em 3em 86em 3em;
+    width: 34%;
+}
+
+#phonic3 {
+    margin: -121em 3em 88em 31em;
+    width: 34%;
+}
+.store{
+    width: 100%;
+    float: left;
+}
+#store1 {
+    margin: -82em 0em 52em 4em;
+}
+.moto{
+    width: 100%;
+    float: left;
+}
+#moto1{
+    margin: -50em 0em 52em 4em ;
+}
+
+
+.moto{
+    width: 100%;
+    float: left;
+}
+#moto1{
+    margin: -50em 0em 52em 4em ;
+}
+
+.realmi{
+    width: 100%;
+    float: left;
+}
+
+#realmi1 {
+    margin: -50em 0em 52em 4em;
+    width: 94%;
+}
+.pockets{
+    width: 100%;
+    float: left;
+}
+#pockets1 {
+    margin: -48em -1em 54em 0em;
+    width: 25%;
+}
+#pockets2 {
+    margin: -48em -1em 54em 0em;
+    width: 25%;
+}
+
+#pockets3 {
+    margin: -48em -1em 54em 0em;
+    width: 25%;
+}
+#pockets4 {
+    margin: -81em -1em 55em 61em;
+    width: 25%;
+}
+
+
+/*  */
+.midrange{
+    float: left;
+    width: 100%;
+}
+#midrange1 {
+    margin: -52em 2em 79em 0em;
+    width: 98%;
+}
+
+.mobilescroll {
+    float: left;
+    width: 100%;
+    margin: -77em 1em 1em -2em;
+    scroll-padding-left: initial;
+    border: solid black 0px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-snap-type: x mandatory;
+    scroll-padding-left: 20px;
+}
+#mobilescroll1 {
+    margin: 1em 1em 1em 1em;
+    width: 20%;
+    
+}
+#mobilescroll2{
+    margin: 1em 1em 1em 1em;
+    width: 20%;
+    
+    
+}
+#mobilescroll3  {
+    margin: 1em 1em 1em 1em;
+    width: 20%;
+
+}
+#mobilescroll4  {
+    margin: 1em 1em 1em 1em;
+    width: 20%;
+}
+#mobilescroll5  {
+    margin: 1em 1em 1em 1em;
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* last section */
+
+.Carousel_slide{
+    float: right;
+    width: 60%;
+
+}
+
+.carousel-inner {
+    position: relative;
+    width: 60%;
+    overflow: hidden;
+    margin: 1em 0em 0em 32em;
+}
+
+
+
+/* rightpart images section starts 
+#ece {
+    margin: 0em 0em 0em -2em;
+    float: left;
+    width: 60%;
+    font-size: 54px;
+    padding: 0em 0em 0em 0em;
+    font-weight: 700;
+}
+#list2 li{
+    display: inline;
+    margin: 0em 0em 0em 1em;
+}
+#list2{
+    font-size: 27px;
+}
+
+#oneplus {
+    float: right;
+    margin: -1em -3em 0em 2em;
+    padding: 0em 0em 0em 0em;
+    width: 120%;
+}
+
+.EMI {
+    float: right;
+    width: 79%;
+}
+#emi {
+    margin: 2em 0em 0em 6em;
+    width: 91%;
+/* } */

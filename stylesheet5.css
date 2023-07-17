@@ -1,0 +1,562 @@
+
+
+
+.help{
+    float: left;
+    width: 100%;
+    
+}
+.help1 {
+    margin: 1em 1em 0em 3em;
+    font-size: 34px;
+}
+.help2{
+    border: outset;
+    margin: 1em 1em 1em -1em;
+    
+}
+.help3{
+    margin: 1em 1em 0em 4em;
+    font-size: 29px;
+}
+.orders{
+    float: left;
+    width: 100%;
+}
+
+.orders1{
+    float: 100%;
+    width: left;
+}
+.orders2 {
+    float: left;
+    width: 22.3%;
+    margin: 3em -5em 1em 8em;
+    padding: 0em -1em 0em 0em;
+    background: antiquewhite;
+}
+
+.box {
+    margin: 0em 1em 1em 0em;
+    padding: 1em 1em 1em 1em;
+}
+.box1 {
+    margin: 0em 2em 0em -2em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 19px;
+}
+
+.box2 {
+    margin: -3em 1em 1em 8em;
+    font-weight: 100;
+    
+}
+.orders3 {
+    float: left;
+    width: 22.3%;
+    margin: 3em -8em 1em 11em;
+    padding: 0em -1em 0em 0em;
+    background: antiquewhite;
+}
+.blue {
+    margin: 0em 0em 1em -1em;
+    padding: 1em 1em 1em 1em;
+}
+
+.blue1 {
+    margin: -8em 3em 0em 7em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 19px;
+}
+.blue2 {
+    margin: -3em 0em 1em 6em;
+    font-size: 15px;
+    font-weight: 100;
+}
+.orders4 {
+    float: left;
+    width: 22.3%;
+    margin: 3em 0em 1em 13em;
+    padding: 0em -1em 0em 0em;
+    background: antiquewhite;
+}
+
+.man {
+    margin: 0em 0em 1em 0em;
+    padding: 1em 1em 1em 1em;
+}
+
+.man1 {
+    margin: -7em 3em 0em 8em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 18px;
+}
+.man2 {
+    margin: -3em 0em 1em 8em;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.prim{
+    float: left;
+    width: 100%;
+}
+.prim1{
+float: left;
+width: 22.3%;
+margin: 3em -5em 1em 8em;
+padding: 0em -1em 0em 0em;
+background: antiquewhite;
+}
+
+
+.manage {
+    margin: 0em 1em 1em 0em;
+    padding: 1em 1em 1em 1em;
+    width: 29%;
+}
+
+.manage1 {
+    margin: 0em 2em 0em -2em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 19px;
+}
+
+.manage2 {
+    margin: -3em 1em 1em 10em;
+    font-size: 15px;
+    font-weight: 100;
+}
+.prim2 {
+    float: left;
+    width: 22.3%;
+    margin: 3em -8em 1em 11em;
+    padding: 0em -1em 0em 0em;
+    background: antiquewhite;
+}
+.pay {
+    margin: 0em 0em 1em 0em;
+    padding: 1em 1em 1em 1em;
+    width: 30%;
+}
+
+.pay1 {
+    margin: -7em 3em 0em 7em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 19px;
+}
+.pay2 {
+    margin: -3em 0em 1em 8em;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.prim3 {
+    float: left;
+    width: 22.3%;
+    margin: 3em 0em 1em 13em;
+    padding: 0em -1em 0em 0em;
+    background: antiquewhite;
+}
+
+.acct {
+    margin: 0em 1em 1em 0em;
+    padding: 1em 1em 1em 1em;
+}
+
+.acct1 {
+    margin: 0em 2em 0em -2em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 21px;
+}
+
+.acct2 {
+    margin: -3em 1em 1em 9em;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.orders{
+    float: left;
+    width: 100%;
+}
+
+.covid{
+    float: 100%;
+    width: left;
+}
+.covid1 {
+    float: left;
+    width: 22.3%;
+    margin: 3em -5em 1em 8em;
+    padding: 0em -1em 0em 0em;
+    background: antiquewhite;
+}
+
+.cov {
+    margin: 0em 1em 1em 0em;
+    padding: 1em 1em 1em 1em;
+}
+.cov1 {
+    margin: 0em 2em 0em -2em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 19px;
+}
+
+.cov2 {
+    margin: -3em 1em 1em 7em;
+    font-weight: 100;
+}
+
+.covid2 {
+    float: left;
+    width: 22.3%;
+    margin: 3em -8em 1em 11em;
+    padding: 0em -1em 0em 0em;
+    background: antiquewhite;
+}
+.dig {
+    margin: 0em 0em 1em 0em;
+    padding: 1em 1em 1em 1em;
+    width: 30%;
+}
+
+.dig1 {
+    margin: -9em 0em 0em 8em;
+    float: right;
+    padding: 2em 0em 0em 0em;
+    font-size: 16px;
+}
+.dig2 {
+    margin: -4em 1em 1em 8em;
+    font-weight: 100;
+}
+.light {
+    margin: 4em 0em 1em -68em;
+}
+
+.searchbar {
+    float: left;
+    width: 100%;
+    margin: 1em 1em 1em 19em;
+}
+.searchbar1{
+    margin: 1em 1em 1em 1em;
+    font-size: 24px;
+}
+.searchbar2 {
+    margin: 0em 0em 0em 2em;
+    padding: 1em 24em 0em 11em;
+}
+.search1 {
+    width: 1%;
+    margin: 0em 0em 0em -39em;
+}
+
+.browse {
+    float: left;
+    width: 100%;
+
+}
+.browse1 {
+    margin: 3em 1em 1em 5em;
+    font-size: 36px;
+}
+
+.topics {
+    float: left;
+    width: 23%;
+    margin: 3em 1em 1em 1em;
+    background: antiquewhite;
+}
+.topics1 li{
+    margin: 1em 1em 1em 1em;
+    display: -webkit-box;
+    font-size:18px;
+}
+
+
+  .rec:hover p {
+    display:-webkit-box;
+    
+  }
+  .rec li {
+    display: -webkit-box;
+    float: right;
+    margin: -2em 0em 0em -47em;
+    width: 51%;
+}
+
+.rec {
+    font-size: 23px;
+    margin: 9em 1em 1em 1em;
+}
+
+
+.ship {
+    font-size: 23px;
+    margin: -1em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+
+.ship:hover p {
+    display:-webkit-box;
+    
+  }
+  .ship li {
+    display: -webkit-box;
+    float: right;
+    margin: -4em 4em 0em -47em;
+    width: 51%;
+}
+.ship p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+
+.vs {
+    font-size: 23px;
+    margin: 0em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.vs:hover p {
+    display:-webkit-box;
+    
+  }
+  .vs li {
+    display: -webkit-box;
+    float: right;
+    margin: -6em 4em 0em -47em;
+    width: 51%;
+}
+.vs p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.lap {
+    margin: 2em 1em 1em 8em;
+}
+
+
+.pricing {
+    font-size: 23px;
+    margin: 0em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.pricing:hover p {
+    display:-webkit-box;
+    
+  }
+  .pricing li {
+    display: -webkit-box;
+    float: right;
+    margin: -8em 4em 0em -47em;
+    width: 51%;
+}
+.pricing p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.letter {
+    margin: 2em 1em 1em 8em;
+}
+
+.balance{
+    font-size: 23px;
+    margin: 0em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.balance:hover p {
+    display:-webkit-box;
+    
+  }
+  .balance li {
+    display: -webkit-box;
+    float: right;
+    margin: -10em 4em 0em -47em;
+    width: 51%;
+}
+.ord p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+
+.ord{
+    font-size: 23px;
+    margin: 0em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.ord:hover p {
+    display:-webkit-box;
+    
+  }
+  .ord li {
+    display: -webkit-box;
+    float: right;
+    margin: -10em 4em 0em -47em;
+    width: 51%;
+}
+.ord p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.ord2 {
+    margin: 2em 1em 1em 8em;
+}
+
+
+.refund p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+
+.refund{
+    font-size: 23px;
+    margin: 0em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color:gainsboro; 
+    margin: 0em 0em 2em -7em;
+}
+.refund:hover p {
+    display:-webkit-box;
+    
+  }
+  .refund li {
+    display: -webkit-box;
+    float: right;
+    margin: -12em 4em 0em -47em;
+    width: 51%;
+}
+.refund p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.refund2 {
+    margin: 2em 1em 1em 8em;
+}
+
+
+
+/*  */
+
+
+.manyu p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+
+.manyu{
+    font-size: 23px;
+    margin: 0em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.manyu:hover p {
+    display:-webkit-box;
+    
+  }
+  .manyu li {
+    display: -webkit-box;
+    float: right;
+    margin: -16em 4em 0em -47em;
+    width: 51%;
+}
+.manyu p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.manyu2 {
+    margin: 2em 1em 1em 8em;
+}
+
+/*  */
+
+
+.ser p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+
+.ser{
+    font-size: 23px;
+    margin: 0em 1em 1em 1em;
+}
+p {
+    display: none;
+    background-color: gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.ser:hover p {
+    display:-webkit-box;
+    
+  }
+  .ser li {
+    display: -webkit-box;
+    float: right;
+    margin: -18em 4em 0em -47em;
+    width: 51%;
+}
+.ser p {
+    display: none;
+    background-color:gainsboro;
+    margin: 0em 0em 2em -7em;
+}
+.manyu2 {
+    margin: 2em 1em 1em 8em;
+}
+
+/*  */
+.bck {
+    float: left;
+    width: 100%;
+    margin: 14em 1em 1em 32em;
+}
+.bck1 {
+    margin: 1em 1em 0em -39em;
+    width: 104%;
+    padding: 1em 3em 1em 1em;
+    background: darkgrey;
+    font-size: 14px;
+}

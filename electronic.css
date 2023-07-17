@@ -1,0 +1,280 @@
+.fulec{
+    float: left;
+    width: 100%;
+}
+
+.trial{
+    width: 100%;
+float: left;
+}
+.trial1 {
+    margin: 1em 1em 1em 0em;
+}
+
+.ec{
+width: 100%;
+margin: 1em 1em 1em 14em;
+float: left;
+}
+
+.ec1{
+    margin: 1em 1em 1em 1em;
+}
+.ec2 {
+    margin: 1em 1em 1em 1em;
+    width: 22%;
+}
+.ec3 {
+    margin: -14em 41em 1em 21em;
+}
+.ec3:hover{
+    color: brown;
+}
+
+
+.ec5 {
+    margin: 1em 41em 1em 21em;
+}
+.ec4 {
+    margin: 1em 44em 1em 21em;
+}
+
+/* ec over */
+
+.note{
+    width: 100%;
+    margin: 6em 1em 1em 14em;
+    float: left;
+    }
+    
+    
+    .note2 {
+        margin: 1em 1em 1em 1em;
+        width: 22%;
+    }
+    .note3 {
+        margin: -16em 41em 1em 21em;
+    }
+    .note3:hover{
+        color: brown;
+    } 
+    .note4 {
+        margin: 1em 44em 1em 21em;
+    }
+    
+    .note5 {
+        margin: 1em 41em 1em 21em;
+    }
+
+    /* note over */
+    
+    .bolat{
+        width: 100%;
+        margin: 6em 1em 1em 14em;
+        float: left;
+        }
+        
+        
+        .bolat2 {
+            margin: 1em 1em 1em 1em;
+            width: 22%;
+        }
+        .bolat3 {
+            margin: -14em 41em 1em 21em;
+        }
+        .bolat3:hover{
+            color: brown;
+        } 
+        .bolat4 {
+            margin: 1em 44em 1em 21em;
+        }
+        
+        .bolat5 {
+            margin: 1em 41em 1em 21em;
+        }
+        /* bolat  over*/
+        .wash{
+            width: 100%;
+            margin: 1em 1em 1em 14em;
+            float: left;
+            }
+            .wash2 {
+                margin: 1em 1em 1em 1em;
+                width: 22%;
+            }
+            .wash3 {
+                margin: -19em 41em 1em 21em;
+            }
+            .wash3:hover{
+                color: brown;
+            } 
+            .wash4 {
+                margin: 1em 44em 1em 21em;
+            }
+            
+            .wash5 {
+                margin: 1em 41em 1em 21em;
+            }
+            /* wash ends */
+
+            .urself {
+                float: left;
+                width: 100%;
+                margin: 3em 1em 1em 1em;
+            }
+            .urselfree{
+                margin: 1em 1em 1em 1em;
+            }
+
+            /* urself */
+
+            .LG {
+                width: 100%;
+                margin: 11em 1em 1em 15em;
+                float: left;
+            }
+                .LG2 {
+                    margin: 1em 1em 1em 1em;
+                    width: 22%;
+                }
+                .LG3 {
+                    margin: -12em 41em 1em 21em;
+                }
+                .LG3:hover{
+                    color: brown;
+                } 
+                .LG4 {
+                    margin: 1em 44em 1em 21em;
+                }
+                
+                .LG5 {
+                    margin: 1em 41em 1em 21em;
+                }
+
+                /* LG over */
+
+ .cam {
+ width: 100%;
+margin: 11em 1em 1em 14em;
+   float: left;
+      }
+    .cam2 {
+  margin: 1em 1em 1em 1em;
+  width: 22%;
+     }
+.cam3 {
+  margin: -12em 41em 1em 21em;
+ }
+  .cam3:hover{
+ color: brown;
+ } 
+ .cam4 {
+    margin: 1em 44em 1em 21em;
+  }
+ .cam5 {
+ margin: 1em 41em 1em 21em;     
+}
+/* cam over */
+
+.comton{
+    width: 100%;
+   margin: 11em 1em 1em 14em;
+      float: left;
+         }
+       .comton2 {
+     margin: 1em 1em 1em 1em;
+     width: 22%;
+        }
+   .comton3 {
+     margin: -19em 41em 1em 21em;
+    }
+     .comton3:hover{
+    color: brown;
+    } 
+    .comton4 {
+       margin: 1em 44em 1em 21em;
+     }
+    .comton5 {
+    margin: 1em 41em 1em 21em;     
+   }
+   /* comton over */
+
+   .mixer{
+    width: 100%;
+   margin: 11em 1em 1em 14em;
+      float: left;
+         }
+       .mixer2 {
+     margin: 1em 1em 1em 1em;
+     width: 22%;
+        }
+   .mixer3 {
+     margin: -10em 41em 1em 21em;
+    }
+     .mixer3:hover{
+    color: brown;
+    } 
+    .mixer4 {
+       margin: 1em 44em 1em 21em;
+     }
+    .mixer5 {
+    margin: 1em 41em 1em 21em;     
+   }
+   /* mixer over */
+
+   .oven{
+    width: 100%;
+   margin: 11em 1em 1em 14em;
+      float: left;
+         }
+       .oven2 {
+     margin: 1em 1em 1em 1em;
+     width: 22%;
+        }
+   .oven3 {
+     margin: -10em 41em 1em 21em;
+    }
+     .oven3:hover{
+    color: brown;
+    } 
+    .oven4 {
+       margin: 1em 44em 1em 21em;
+     }
+    .oven5 {
+    margin: 1em 41em 1em 21em;     
+   }
+   /* oven */
+
+   .dril{
+    width: 100%;
+   margin: 6em 1em 1em 14em;
+      float: left;
+         }
+       .dril2 {
+     margin: 1em 1em 1em 1em;
+     width: 22%;
+        }
+   .dril3 {
+     margin: -17em 41em 1em 21em;
+    }
+     .dril3:hover{
+    color: brown;
+    } 
+    .dril4 {
+       margin: 1em 44em 1em 21em;
+     }
+    .dril5 {
+    margin: 1em 41em 1em 21em;     
+   }
+
+   /* dril */
+
+   .wish{
+    width: 100%;
+    float: left;
+   }
+
+   .wish1 {
+    margin: 12em 1em 1em 2em;
+    width: 97%;
+}

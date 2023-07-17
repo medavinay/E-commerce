@@ -1,0 +1,351 @@
+.ful{
+    float: left;
+    width: 100%;
+}
+.firstrow{
+    float: left;
+    width: 100%;
+}
+.first1 {
+    float: left;
+    width: 20%;
+    margin: 2em 1em 1em 5em;
+}
+.villien {
+    margin: 4em 1em 1em 2em;
+    width: 75%;
+}
+
+.villien1 {
+    margin: 0em 1em 1em 6em;
+}
+.villien2 {
+    margin: 0em -2em 1em 3em;
+}
+.villien2:hover{
+    color:brown;
+}
+.villien3 {
+    margin: 0em 1em 1em 6em;
+}
+
+/*  */
+.first2{
+    float: left;
+    width: 20%;
+    margin: 2em 1em 1em 3em;
+}
+
+.bol {
+    margin: 0em 1em 1em 4em;
+    width: 48%;
+}
+.bol1{
+    margin: 0em 1em 1em 6em;
+}
+.bol2 {
+    margin: 0em 1em 1em 3em;
+}
+.bol2:hover{
+    color:brown;
+}
+.bol3 {
+    margin: 0em 0em 0em 5em;
+}
+
+/*  */
+
+.first3{
+    float: left;
+    width: 20%;
+    margin:3em 1em 1em 1em;
+}
+.Harvey {
+    margin: 1em 1em 1em 4em;
+    width: 33%;
+}
+.Harvey1 {
+    margin: 1em 0em 1em 1em;
+}
+.Harvey2{
+    margin: 0em 1em 1em 3em;
+}
+.Harvey2:hover{
+    color:brown;
+}
+.Harvey3{
+    margin: 0em 0em 0em 3em;
+}
+.Harvey4 {
+    margin: 1em -3em 1em -2em;
+}
+/*  */
+.first4 {
+    float: left;
+    width: 20%;
+    margin: 1em 1em 1em 1em;
+}
+.UrbanoFashion{
+    margin: 1em 1em 1em 4em;
+    width: 45%;
+}
+
+.UrbanoFashion1{
+    margin: 1em 0em 1em 1em;
+}
+.UrbanoFashion2{
+    margin: 0em 1em 1em 3em;
+}
+.UrbanoFashion2:hover{
+    color:brown;
+}
+.UrbanoFashion3{
+    margin: 0em 0em 0em 3em;
+}
+.UrbanoFashion4{
+    margin: 0em 0em 0em 3em;
+}
+
+/* firstrow ends */
+
+.secondrow{
+        float: left;
+        width: 100%;
+    }
+    .second1 {
+        float: left;
+        width: 20%;
+        margin: 1em 1em 1em 5em;
+    }
+    
+.lymio {
+    margin: 4em 1em 1em 2em;
+    width: 75%;
+}
+
+.lymio1 {
+    margin: 0em 1em 1em 7em;
+}
+.lymio2 {
+    margin: 0em -2em 1em 2em;
+}
+.lymio2:hover{
+    color:brown;
+}
+.lymio3 {
+    margin: 0em 1em 1em 5em;
+}
+.lymio4{
+    
+        margin: 1em 1em 1em 4em;
+  
+}
+/*  */
+
+.second2{
+    float: left;
+    width: 20%;
+    margin: 2em 1em 1em 3em;
+}
+
+.ashion {
+    margin: 1em 1em 1em 4em;
+    width: 67%;
+}
+.ashion1{
+    margin: 0em 1em 1em 6em;
+}
+.ashion2 {
+    margin: 0em 1em 1em 3em;
+}
+.ashion2:hover{
+    color:brown;
+}
+.ashion3 {
+    margin: 0em 0em 0em 5em;
+}
+
+.ashion4{
+margin: 1em 1em 1em 4em;
+}
+
+/*  */
+
+.second3 {
+    float: left;
+    width: 20%;
+    margin: 2em 1em 1em 3em;
+}
+.uri {
+    margin: 1em 1em 1em 4em;
+    width: 33%;
+}
+.uri1 {
+    margin: 1em 0em 1em 1em;
+}
+.uri2{
+    margin: 0em 1em 1em 1em;
+}
+.uri2:hover{
+    color:brown;
+}
+.uri3{
+    margin: 0em 0em 0em 3em;
+}
+.uri4 {
+    margin: 1em -3em 1em 2em;
+}
+
+/*  */
+
+.second4 {
+    float: left;
+    width: 20%;
+    margin: 1em 1em 1em 1em;
+}
+.denis {
+    margin: 1em 1em 1em 3em;
+    width: 56%;
+}
+
+.denis1{
+    margin: 1em 0em 1em 1em;
+}
+.denis2{
+    margin: 0em 1em 1em 3em;
+}
+.denis2:hover{
+    color:brown;
+}
+.denis3{
+    margin: 0em 0em 0em 3em;
+}
+.denis4{
+    margin: 0em 0em 0em 3em;
+}
+
+/*  */
+
+.JB {
+    float: left;
+    width: 100%;
+    margin: 1em 1em 1em 4em;
+}
+.JB1{
+    margin: 1em 1em 1em 1em;
+}
+.JB2 {
+    margin: -13em 1em 1em 26em;
+    font-size: 25px;
+}
+.JB3{
+    margin: 1em 1em 1em 28em;
+    font-size: 16px;
+}
+.JB3:hover{color: red}
+
+
+.JB4 {
+    margin: 1em 1em 1em 32em;
+    font-size: 20px;
+}
+.JB5 {
+    font-size: 16px;
+    margin: 1em 37em 1em 42em;
+    background: greenyellow;
+   
+}
+.JB6 {
+    margin: 1em 1em 1em 37em;
+    font-size: 16px;
+}
+
+/*  */
+
+.third {
+    float: left;
+    margin: 8em 1em 1em 7em;
+    width: 100%;
+}
+.third1{
+    float: left;
+    width: 20%;
+}
+   
+.unibliss {
+    margin: 4em 1em 1em 4em;
+    width: 69%;
+}
+
+.unibliss1 {
+    margin: 0em 1em 1em 5em;
+}
+.unibliss2 {
+    margin: 0em -2em 1em 2em;
+}
+.unibliss2:hover{
+    color:brown;
+}
+.unibliss3 {
+    margin: 0em 1em 1em 5em;
+}
+.unibliss4{
+    
+        margin: 1em 1em 1em 4em;
+  
+}
+
+/*  */
+.third2{
+float: left;
+width: 20%;
+margin: 6em 1em 1em 3em;
+}
+
+.lytiq {
+margin: 2em 1em 1em 4em;
+width: 88%;
+}
+.lytiq1{
+    margin: 2em 1em 1em 10em;
+}
+.lytiq2 {
+    margin: 0em -2em 1em 7em;
+}
+.lytiq2:hover{
+color:brown;
+}
+.lytiq3 {
+    margin: 0em 0em 0em 9em;
+}
+
+.lytiq4 {
+    margin: 1em -1em 1em 8em;
+}
+
+/*  */
+
+.third3 {
+    float: left;
+    width: 20%;
+    margin: 6em 1em 1em 3em;
+}
+.tusok{
+    margin: 1em 1em 1em 4em;
+    width: 88%;
+}
+.tusok1 {
+    margin: 1em 0em 1em 9em;
+}
+.tusok2{
+    margin: 0em -3em 1em 5em;
+}
+.tusok2:hover{
+    color:brown;
+}
+.tusok3{
+    margin: 0em 0em 0em 7em;
+}
+.tusok4 {
+    margin: 1em -3em 1em 6em;
+}

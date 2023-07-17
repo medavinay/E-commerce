@@ -1,0 +1,78 @@
+.ful{
+    float: left;
+    width: 100%;
+}
+
+.part1 {
+    float: left;
+    width: 50%;
+    background: salmon;
+    margin: 1em 1em 1em 1em;
+    
+}
+.login {
+    float: left;
+    width: 89%;
+    margin: 0em 1em 1em 0em;
+    color: orangered;
+}
+   
+
+.part2 {
+    float: left;
+    width: 50%;
+    background: salmon;
+    margin: -38em 1em 1em 42em;
+    padding: 1em 1em 12em 1em;
+}
+.vs {
+    margin: -1em 1em 0em -21em;
+    background: grey;
+    width: 133%;
+    padding: 1em 0em 1em 14em;
+}
+
+.log {
+    float: left;
+    margin: 3em 1em 1em 1em;
+    font-size: 36px;
+    color: mistyrose;
+}
+.username {
+    margin: 0em 1em 1em 3em;
+    padding: 1em 1em 0em 5em;
+}
+.user {
+    margin: 10em 1em 1em 2em;
+    font-size: larger;
+}
+.pass {
+    margin: 1em 1em 1em 2em;
+    font-size: 21px;
+}
+.nme {
+    margin: 0em 1em 1em 3em;
+    padding: 1em 1em 0em 5em;
+}
+.getin{
+    float: left;
+    width: 100%;
+}
+
+.foot {
+    margin: -12em 1em 1em 0em;
+    width: 58%;
+    padding: 9em 1em 1em 36em;
+    background: grey;
+    font-size: 16px;
+    text-align: inherit;
+    font-weight: 600;
+}
+.jon {
+    margin: 2em 1em 1em 7em;
+    padding: 1em 4em 1em 4em;
+    background: gray;
+    border-radius: 20px;
+    color: inherit;
+    font-weight: 600;
+}

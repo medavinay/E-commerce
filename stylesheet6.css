@@ -1,0 +1,299 @@
+.spigen{
+    float: left;
+    width: 100%;
+}
+.spigen1 {
+    margin: 1em 1em 1em 16em;
+}
+
+.spigen2 {
+    margin: -3em 1em 1em 18em;
+    font-size: larger;
+}
+.four{
+    float: left;
+    width: 100%;
+}
+
+.four1 {
+    margin: 1em 1em 1em 16em;
+}
+
+.four2 {
+    margin: 0em 1em 1em 15em;
+    font-size: 17px;
+}
+.four3 {
+    margin: -1em 1em 1em 20em;
+    font-size: 13px;
+}
+.A{
+    float: left ;
+    width: 100%;
+    margin: 2em 1em 1em 1em;
+}
+.A1 {
+    margin: 1em 1em 1em 17em;
+    font-size: 15px;
+}
+.A2 {
+    margin: 0em 1em 1em 15em;
+}
+.A3 {
+    margin: -14em 1em 1em 28em;
+    font-size: 16px;
+    padding: 1em 1em 0em 0em;
+    width: 33%;
+}
+
+.mrp{
+    margin: 1em 1em 1em 28em;
+}
+.mrp1{
+    margin: -3em 1em 1em 31em;
+}
+.mrp2{
+    margin: 1em 1em 1em 29em;
+}
+.prm {
+    margin: 0em 1em 1em 28em;
+    width: 32px;
+}
+
+/*  */
+.nok {
+    float: left;
+    width: 100%;
+    margin: 6em 1em 1em 19em;
+}
+
+.nok2{
+    margin: 1em 1em 1em 1em;
+}
+.nok3 {
+    margin: -14em 39em 0em 8em;
+}
+
+.nok4 {
+    margin: 92em 1em 1em 8em;
+    background: orangered;
+    padding: 0em 0em 0em 0em;
+    color: white;
+}
+
+.nok5 {
+    margin: 1em 1em 1em 7em;
+    font-size: 18px;
+}
+.nok6 {
+    margin: -1em 1em 1em 8em;
+    width: 40px;
+}
+.nok7 {
+    margin: -3em 58em 1em 11em;
+}
+.nok8{
+    margin: 1em 1em 1em 8em;
+}
+/*  */
+
+.nord {
+    float: left;
+    width: 100%;
+    margin: 4em 1em 1em 17em;
+}
+.nord1 {
+    margin: -13em 1em 1em 12em;
+}
+.nord2 {
+    margin: 1em 51em 1em 12em;
+}
+.nord3 {
+    margin: -3em 1em 1em 16em;
+}
+.nord4 {
+    margin: 1em 1em 1em 13em;
+}
+.nord5 {
+    margin: 1em 1em 1em 14em;
+}
+.norki {
+    margin: 0em 1em 1em 12em;
+    width: 40px;
+}
+
+/*  */
+.wire {
+    float: left;
+    width: 100%;
+    margin: 4em 1em 1em 17em;
+}
+.wire1 {
+    margin: 2em 1em 1em 1em;
+    width: 12%;
+}
+
+.wire2 {
+    margin: -10em 46em 1em 12em;
+}
+ .wire3{
+    margin: 1em 1em 1em 12em;
+ }
+ .wire3{
+    margin: 1em 1em 1em 12em;
+ }
+ .wire4 {
+    margin: 1em 1em 1em 12em;
+    color: brown;
+}
+ .wire5{
+ 
+    margin: -2em 1em 1em 12em;
+    width: 40px;
+ }
+
+
+ .phoniz{
+    float: left;
+    width: 100%;
+ }
+ .ph {
+    margin: 1em 1em 1em 5em;
+    width: 20%;
+}
+
+.red {
+    margin: 1em 1em 1em 12em;
+    width: 51%;
+}
+.ppl {
+    margin: 0em -5em 0em 17em;
+    font-size: 12px;
+    color: seagreen;
+}
+
+.ppl1 {
+    margin: 1em -11em 1em 13em;
+    font-size: 12px;
+}
+.ppl2 {
+    margin: -2em -3em 1em 12em;
+    color: white;
+    background: brown;
+}
+.ppl3 {
+    margin: 0em -2em 1em 11em;
+}
+.ppl4 {
+    margin: -1em 0em 1em 10em;
+    width: 10%;
+}
+
+/*  */
+.phoniz1 {
+    margin: -26em 1em 1em 20em;
+    width: 20%;
+}
+ .red1 {
+    margin: 1em 1em 1em 12em;
+     width: 51%; 
+}
+.pat{
+margin: 0em -5em 0em 19em;
+font-size: 12px;
+    color: seagreen;
+ }
+ 
+ .pat1{
+    margin: 1em -11em 1em 14em;
+    font-size: 12px;
+ }
+ .pat2 {
+    margin: 1em -6em 1em 10em;
+    font-size: 19px;
+}
+.pat3 {
+    margin: 1em -10em 1em 11em;
+    font-size: 14px;
+}
+
+/*  */
+
+.phoniz2 {
+    margin: -23em 1em 1em 34em;
+    width: 20%;
+}
+.red2 {
+    margin: 1em 1em 1em 12em;
+     width: 51%; 
+}
+.tern{
+    margin: 1em -5em 0em 19em;
+    font-size: 12px;
+        color: seagreen;
+ }
+ .tern1{
+    margin: 1em -11em 1em 15em;
+    font-size: 12px;
+ }
+
+ .tern3 {
+    margin: 1em -3em 1em 13em;
+}
+.tern4 {
+    margin: 0em -11em 1em 15em;
+    font-size: 14px;
+}
+/*  */
+
+.phoniz3 {
+    margin: -24em 1em 1em 49em;
+    width: 20%;
+}
+.red3 {
+    margin: 1em 1em 1em 12em;
+     width: 51%; 
+}
+.terns{
+    margin: 1em -5em 0em 19em;
+    font-size: 12px;
+        color: seagreen;
+ }
+
+ .terns1{
+    margin: 1em -11em 1em 15em;
+    font-size: 12px;
+ }
+ .terns3 {
+    margin: 1em -3em 1em 13em;
+}
+.terns4 {
+    margin: 0em -11em 1em 15em;
+    font-size: 14px;
+}
+/*  */
+
+.phoniz4 {
+    margin: -24em 1em 1em 65em;
+    width: 20%;
+}
+.red4 {
+    margin: 1em 1em 1em 12em;
+     width: 51%; 
+}
+.rns{
+    margin: 1em -5em 0em 19em;
+    font-size: 12px;
+        color: seagreen;
+ }
+ .rns1{
+    margin: 1em -11em 1em 15em;
+    font-size: 12px;
+ }
+ .rns3 {
+    margin: 1em -3em 1em 13em;
+}
+.rns4 {
+    margin: 0em -11em 1em 15em;
+    font-size: 14px;
+}

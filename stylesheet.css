@@ -1,0 +1,734 @@
+.total{
+    float: center;
+    width: 100%;
+}
+.header {
+    float: inherit;
+    width: 100%;
+    background: black;
+    margin: 0em 0em -3em 0em;
+}
+#header1{
+    float: left;
+width: 33.3%;
+}
+
+#vs {
+    float: left;
+    width: 13%;
+    margin: 1em 0em 0em 1em;
+}
+
+#helo {
+    padding: 0em 0em 0em 0em;
+    margin: 0em 0em -1em 6em;
+    font-size: 28px;
+    color: white;}
+  
+    #selection {
+        padding: 0em 0em 0em 0em;
+        margin: 2em 0em 0em 7em;
+        font-size: 19px;
+        color: white;
+    }
+
+
+#header2 {
+    float: left;
+    width: 44%;
+    margin: -4em 0em 0em 31em;
+    padding: 1em 0em 1em 4em;
+}
+.list li{display: inline;
+
+}
+.list{
+    float: left;
+    width: 100%;
+}
+
+
+
+#listbar {
+    margin: 0em 1em 0em -9em;
+    padding: 1em 3em 0em 2em;
+    width: 3%;}
+
+
+
+    #listbar1 {
+        margin: 0em 2em 0em -2em;
+        padding: 1em 21em 0em 2em;
+        width: 11%;
+    }
+
+#listbar2 {
+    margin: 0em 0em 0em -3em;
+    padding: 1em 0em 0em 1em;
+    width: 5%;
+}
+
+#header2 {
+    float: left;
+    width: 103%;
+    margin: -4em 0em 0em 27em;
+    padding: 1;
+}
+
+#ind {
+    margin: 0em 0em 0em 25em;
+    padding: 1em 0em 0em 1em;
+    width: 3%;
+    background: black;}
+
+    #header4 {
+        float: right;
+        width: 100%;
+        margin: 1em 1em 1em 1em;
+    }
+
+#hell {
+    margin: -4em 1em 1em 52em;
+    padding: 0em 0em 0em 0em;
+    font-size: 19px;
+    color: white;
+}
+
+#Acct {
+    margin: -2em 0em 0em 1em;
+    padding: 1em 0em 0em 45em;
+    font-size: 21px;
+    color: white;
+}
+
+#returns {
+    margin: -2em 0em -1em 60em;
+    padding: 0em 0em 1em 1em;
+    font-size: 19px;
+    color: white;
+}
+#order {
+    margin: -1em 0em 0em 67em;
+    padding: 0em 0em 1em 1em;
+    font-size: 17px;
+   color: white;
+}
+
+#carts {
+    margin: -5em 0em 0em 77em;
+    padding: 0em 0em 1em 1em;
+    width: 7%;
+}
+
+
+
+#secondlist {
+    background-color: black;
+    margin: 3em 0em 2em 0em;
+    padding: 2em 0em 1em 0em;
+    width: 102%;
+}
+
+.all li{ display: inline;
+    margin: 1em 1em 1em 1em;
+    padding: 1em 1em 1em 1em;
+    color: white;
+    text-decoration: none;
+}
+.li:hover{color:red;}
+
+#setup{
+    float: left;
+    width: 100%;
+}
+
+
+#setup1 {
+    margin: 1em 1em 1em 1em;
+    padding: 1em 1em 1em 1em;
+    width: 33%;
+}
+.setup1 {
+    float: left;
+    margin: 0em 0em 0em -1em;
+    padding: 1em 1em 1em 1em;
+}
+
+.setup3{
+    margin: 1em 1em 1em 1em;
+}
+ #set {
+    float: left;
+    margin: 0em 0em 0em -1em;
+    padding: 1em 1em 1em 1em;
+}
+
+.set {
+    margin: -2em 0em 0em 2em;
+}
+
+.set1 {
+    margin: -2em 0em 1em 1em;
+}
+
+.shop {
+    margin: -20em 0em 1em 30em;
+    padding: 1em 1em 1em 1em;
+    width: 33%;
+}
+#shop1 {
+   
+    margin: 0em 0em 0em -1em;
+    padding: 1em 1em 1em 1em;
+}
+#shop2 {
+    margin: 1em 0em 0em -1em;
+    padding: 0em 0em 0em 0em;
+    width: 42%;
+}
+
+#shop3 {
+    margin: 1em 0em 0em 1em;
+    width: 42%;}
+
+    .shop2 {
+        margin: -12em 0em 0em 0em;
+        padding: 10em 0em 1em 0em;
+        width: 33%;
+    }
+    
+
+    #shop4 {
+        margin: 1em 0em 0em 2em;
+        padding: 0em 0em 0em 0em;
+        width: 13%;
+    }
+   
+    #shop5 {
+        margin: 1em 0em 0em 1em;
+        padding: 0em 0em 0em 0em;
+        width: 13%;
+    }
+
+    .signin {
+        margin: -35em 0em 0em 5em;
+        padding: 10em 0em 0em 1em;
+        width: 33%;
+        float: right;
+    }
+    
+
+#signin2 {
+    margin: 1em 0em 0em 3em;
+    padding: 1em 4em 1em 3em;
+    text-decoration: blink;
+    background: skyblue;
+}
+
+
+.smart {
+    margin: -15em 0em 0em 5em;
+    width: 34%;
+    float: right;
+}
+
+#smart2 {
+    margin: 0em 0em 0em 2em;
+    width: 63%;
+}
+
+.third{
+    float: left;
+    width: 100%;
+
+}
+#clothes{
+    margin: 1em 1em 1em 1em;
+}
+
+#clothes1 {
+    margin: 1em 0em -2em 1em;
+}
+
+#clothes2 {
+    margin: 1em 0em -2em 1em;
+    font-size: 100%;
+    padding: 1em 0em 0em 3em;
+}
+
+#clothes3 {
+    margin: -8em 0em 0em 13em;
+    padding: 0em 0em 0em 1em;
+    width: 15%;
+}
+
+#clothes4 {
+    margin: -1em 0em 0em 0em;
+    font-size: 100%;
+    padding: 0em 0em 0em 17em;
+}
+
+.bags{
+    float: left;
+    width: 100%;
+
+}
+#bags1{
+    margin: 1em 0em 0em 2em;
+}
+
+#bags2 {
+    margin: -1em 0em 0em 0em;
+    font-size: 98%;
+    padding: 1em 0em 0em 4em;
+}
+#bags3 {
+    margin: -11em 0em 0em 17em;
+    width: 10%;
+}
+#bags4 {
+    margin: -3em 0em 0em 14em;
+    font-size: 98%;
+    padding: 1em 0em 0em 4em;
+}
+
+.sofia{
+    float: left;
+    width: 100%;
+}
+#sofia1 {
+    margin: -24em 0em 0em 32em;
+    width: 19%;
+}
+#sofia2 {
+    margin: -5em 0em 0em 29em;
+    font-size: 98%;
+    padding: 1em 0em 0em 4em;
+    color: blue;
+}
+#sofia3 {
+    margin: -1em 0em 1em 33em;
+}
+#sofia4 {
+    margin:-20em 9em 0em 2em;
+    width: 22%;
+    float: right;
+}
+.today{
+    float: left;
+    width: 100%;
+}
+#today1 {
+    margin: 1em 0em 0em 1em;
+    padding: 0em 0em 0em 0em;
+    font-size: inherit;
+}
+
+#today2 {
+    margin: 0em 0em 0em 2em;
+    font-size: 11px;
+    color: blue;
+}
+
+.deals{
+    float: left;
+    width: 100%;
+}
+
+#deals1{
+    margin: 1em 1em 1em 1em;
+
+}
+#deals2{
+    margin: 1em 0em 0em 1em;
+}
+
+
+#deals3 {
+    margin: -4em 0em 0em 2em;
+    padding: 0em 0em 0em 0em;
+    backface-visibility: hidden;
+    background: red;
+}
+#deals4 {
+    margin: -2em 0em 0em 11em;
+    font-size: 13px;
+    color: red;
+}
+#deals5{
+    margin: 1em 1em 1em 1em;
+    margin: -2em 0em 0em 11em;
+    font-size: 13px;
+    color: red;
+}
+#deals5 {
+    margin: 1em 0em 0em 2em;
+    font-size: 13px;
+    color: black;
+}
+
+#deals6 {
+    margin: -24em 0em 0em 17em;
+    padding: 0em 0em 0em 0em;
+    width: 12%;
+}
+
+#deals7 {
+    margin: -6em 0em 0em 17em;
+    float: left;
+    background: red;
+    padding: 0em 0em 0em 0em;
+}
+#deals8 {
+    margin: -7em 0em 0em 27em;
+    font-size: 14px;
+    color: red;
+}
+#deals9 {
+    margin: 1em 0em 0em 21em;
+    font-size: 13px;
+}
+
+#deals0 {
+    margin: -25em 0em 0em 31em;
+    width: 15%;
+}
+
+#deals11 {
+    margin: -6em 0em 0em 32em;
+    float: left;
+    padding: 0em 0em 0em 0em;
+    background: red;
+}
+#deals12 {
+    margin: -7em 0em 0em 44em;
+    font-size: 14px;
+    color: red;
+}
+#deals13 {
+    margin: 1em 0em 0em 39em;
+    font-size: 13px;
+}
+#deals14 {
+    margin: -25em 0em 0em 48em;
+    width: 14%;
+}
+#deals15 {
+    margin: -6em 0em 0em 48em;
+    float: left;
+    padding: 0em 0em 0em 0em;
+    background: red;
+}
+#deals16 {
+    margin: -7em 0em 0em 62em;
+    font-size: 14px;
+    color: red;
+}
+#deals17 {
+    margin: 1em 0em 0em 59em;
+    font-size: 13px;
+}
+#deals18 {
+    margin: -25em 0em 0em 66em;
+    width: 8%;
+}
+#deals19 {
+    margin: -6em 0em 0em 64em;
+    float: left;
+    padding: 0em 0em 0em 0em;
+    background: red;
+}
+#deals20 {
+    margin: -7em 0em 0em 81em;
+    font-size: 14px;
+    color: red;
+}
+#deals21 {
+    margin: 1em 0em 0em 79em;
+    font-size: 13px;
+}
+.lens {
+    float: left;
+    width: 84%;
+    background-color: aqua;
+    padding: 2em 1em 3em 1em;
+    margin: 0em 0em 0em 7em;
+}
+#lens1 {
+    margin: 2em 0em -1em 7em;
+}
+
+#lens2 {
+    margin: -1em 0em 0em 17em;
+    font-size: 11px;
+}
+#lens3 {
+    margin: -7em 0em 1em 32em;
+    width: 12%;
+}
+#lens4 {
+    margin: -11em 0em 0em 46em;
+    padding: 0e 0em 0em 0em;
+    width: 23%;
+    font-weight: 500;}
+
+    #lens5{
+        margin: 1em 0em 0em 46em;
+        color: red;
+    }
+    #lens6 {
+    margin: 0vi 0vi 0vi 54vi;
+    padding: 0em 0em 0em 0em;
+    background: red;
+} 
+ #lens7{
+    margin: -2vi 0vi 0vi 60vi;
+    padding: 0em 0em 0em 0em;
+     font-size: small;
+
+}
+.toys{
+    float: left;
+    width: 100%;
+}
+#toys1 {
+    margin: 3em 0em 0em 2em;
+    float: left;
+}
+#toys2 {
+    margin: 10em 0em 3em -26em;
+}
+#toys3 {
+    margin: 5em 0em 0em 3em;
+    width: 12%;
+}
+#toys4 {
+    margin: 6em 0em 0em 5em;
+    width: 13%;
+}
+
+#toys5 {
+    margin: 4em 0em 0em 7em;
+    width: 11%;
+}
+
+#toys6 {
+    margin: 4em 0em 0em 9em;
+    width: 12%;
+}
+.Grocery{
+    float: left;
+    width: 100%;
+}
+#grocery1 {
+    margin: 1em 0em 0em 1em;
+    padding: 1em 1em 1em 1em;
+    float: left;
+    font-weight: 500;
+}
+
+#grocery2 {
+    margin: 6em 0em 0em -27em;
+    padding: 1em 1em 1em 1em;
+}
+
+
+#grocery3 {
+    margin: 6em 0em 1em 1em;
+    padding: 1em 1em 1em 1em;
+}
+#grocery4 {
+    margin: 6em 0em 1em 3em;
+    padding: 1em 1em 1em 1em;
+}
+#grocery5 {
+    margin: 6em 0em 1em 4em;
+    padding: 1em 1em 1em 1em;
+}
+#grocery6 {
+    margin: 6em 0em 1em 5em;
+    padding: 1em 1em 1em 1em;
+}
+#grocery7 {
+    margin: 6em 0em 1em 3em;
+    padding: 1em 1em 1em 1em;
+}
+.login {
+    float: left;
+    width: 100%;
+    margin: 1em 1em 1em 1em;
+}
+#login1 {
+    margin: 5em 0em -1em 42em;
+    font-size: 12px;
+}
+#login2 {
+    margin: 1em 0em -1em 31em;
+    padding: 0em 5em 0em 5em;
+    background: goldenrod;
+}
+#login3 {
+    margin: 1em 0em 0em 61em;
+    font-size: 9px;
+}
+
+
+#login4 {
+    margin: -2em 0em 0em 69em;
+    font-size: 9px;
+    color: blue;
+    padding: 0em 0em 0em -1em;
+}
+.last {
+    float: left;
+    width: 100%;
+    background: slategrey;
+    margin: 2em 0em 0em 0em;
+    padding: 0em 0em 0em 34em;
+}
+
+#last1 {
+    margin: 1em 1em 1em 4em;
+    padding: 0em 0em 0em 0em;
+}
+.foot{
+    float: left;
+    width: 100%;
+    background: dimgrey;
+}
+.get {
+    float: left;
+    width: 100%;
+    margin: 1em 1em 1em -5em;
+}
+#get1 {
+    margin: 3em 0em 0em 21em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+    font-weight: 700;
+}
+#get2 {
+    margin: 1em 0em 0em 22em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+}
+#get3 {
+    margin: 1em 0em 0em 22em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+}
+#get4{
+    margin: 1em 0em 0em 21em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+}
+#get5 {
+    margin: 1em 0em 0em 23em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+}
+.Connect{
+    float: left;
+    width: 100%;
+    margin: -1em 1em 1em -4em;
+}
+#Connect1 {
+    margin: -10em 0em 0em 36em;
+    padding: -1em 0em 0em -1em;
+    font-size: 13px;
+    font-weight: 700;
+}
+#Connect2 {
+    margin: 1em 0em 0em 37em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+}
+#Connect3 {
+    margin: 1em 0em 0em 37em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+}
+#Connect4 {
+    margin: 1em 0em 0em 37em;
+    padding: 0em 0em 0em 0em;
+    font-size: 13px;
+}
+.money{
+    float: left;
+    width: 100%;
+    margin: -1em 1em 1em -1em;
+}
+
+#money1{
+    margin: -10em 0em 0em 49em;
+    font-size: 13px;
+    font-weight: 700;
+}
+#money2{
+    margin: 1em 0em 0em 52em;
+    font-size: 13px;
+}
+#money3{
+    margin: 1em 1em 1em 49em;
+    font-size: 13px;
+}
+#money4{
+    margin: 1em 1em 1em 49em;
+    font-size: 13px;
+}
+#money5{
+    margin: 1em 1em 1em 51em;
+    font-size: 13px;
+}
+#money6{
+    margin: 1em 1em 1em 51em;
+    font-size: 13px;
+}
+#money7{
+    margin: 1em 1em 1em 51em;
+    font-size: 13px;
+}
+#money8{
+    margin: 1em 1em 1em 50em;
+    font-size: 13px;
+}
+#money9{
+    margin: 1em 1em 1em 50em;
+    font-size: 13px;
+}
+
+.help {
+    float: left;
+    width: 100%;
+    margin: -11em 1em 1em 19em;
+}
+
+#help1{
+    margin: -9em 0em 0em 51em;
+    font-size: 13px;
+    font-weight: 700;
+}
+#help2{
+    margin: 1em 0em 0em 52em;
+    font-size: 13px;
+}
+#help3{
+    margin: 1em 1em 1em 49em;
+    font-size: 13px;
+}
+#help4{
+    margin: 1em 1em 1em 49em;
+    font-size: 13px;
+}
+#help5{
+    margin: 1em 1em 1em 51em;
+    font-size: 13px;
+}
+#help6{
+    margin: 1em 1em 1em 51em;
+    font-size: 13px;
+}
+#help7{
+    margin: 1em 1em 1em 51em;
+    font-size: 13px;
+}
